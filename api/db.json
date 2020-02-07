@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Gaming ",
+      "description": "Pubg live gameplay in Telugu. Map - Erangel. ",
+      "id": 1
+    },
+    {
+      "title": "Tech Stream",
+      "description": "About how to start competitive coding. ",
+      "userId": "101582170612729989547",
+      "id": 2
+    },
+    {
+      "title": "Mac Book",
+      "description": "Unboxing New mac book pro. Feeling excited.",
+      "userId": "101582170612729989547",
+      "id": 3
+    }
+  ]
+}
